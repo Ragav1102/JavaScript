@@ -1,0 +1,10 @@
+let add=17+33;
+let sub=33-14;
+let div=100/50;
+let mul=5*2;
+let rem=19%2;
+console.log(add);
+console.log(sub);
+console.log(mul);
+console.log(div);
+console.log(rem);
